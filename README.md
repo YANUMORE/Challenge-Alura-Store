@@ -6,10 +6,10 @@
 * Conclusiones
 * Autor
 
-### Descripción 
+### Descripción del proyecto
 El desafío, es para ayudar al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Para ello, analizamoss datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store. El objetivo es identificar la tienda menos eficiente y presentar una recomendación final basada en los datos.
 
-### DEsarrollo del proyecto
+### Desarrollo del proyecto
 
 #### Ingreso total de cada tienda
 #####Todo el desarrollo contemido em Colab
@@ -41,7 +41,7 @@ El desafío, es para ayudar al Sr. Juan a decidir qué tienda de su cadena Alura
 
 *Tienda 4: 4.0
 
-### Calculemos el ingreso promedio por producto vendido para cada tienda:
+#### Calculemos el ingreso promedio por producto vendido para cada tienda:
 
 ####Ingreso por producto = Ingreso total / Total de productos vendidos
 
@@ -53,7 +53,7 @@ El desafío, es para ayudar al Sr. Juan a decidir qué tienda de su cadena Alura
 
 *Tienda 4: 1,038,375,700 / 2358 ≈ 440,213.60 (MÁS BAJO)
 
-### Analisis
+### Analisis y resultados
 *Los ingresos totales son bastante similares, pero la Tienda 4 tiene el ingreso más bajo.
 
 *Las calificaciones de los clientes son también similares, con la Tienda 3 teniendo la más alta (4.05) y la Tienda 1 la más baja (3.98).
