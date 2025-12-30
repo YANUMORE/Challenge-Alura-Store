@@ -9,8 +9,10 @@
 ### Descripción 
 El desafío, es para ayudar al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Para ello, analizamoss datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store. El objetivo es identificar la tienda menos eficiente y presentar una recomendación final basada en los datos.
 
+### DEsarrollo del proyecto
 
-### Ingreso total de cada tienda
+#### Ingreso total de cada tienda
+#####Todo el desarrollo contemido em Colab
 *La tienda 1 su ingreso total es: $1,150,880,400.00
 
 *La tienda 2 su ingreso total es: $1,116,343,500.00
@@ -19,8 +21,7 @@ El desafío, es para ayudar al Sr. Juan a decidir qué tienda de su cadena Alura
 
 *La tienda 4 su ingreso total es: $1,038,375,700.00 (MÁS BAJO)
 
-
-### Ventas por categoría
+#### Ventas por categoría
 #### Ventas por categoría (cantidad de productos vendidos por categoría, tabla resumida) y total por tienda:
 *Tienda 1: 2359
 
@@ -30,7 +31,7 @@ El desafío, es para ayudar al Sr. Juan a decidir qué tienda de su cadena Alura
 
 *Tienda 4: 2358 (MÁS BAJO)
 
-### Calificación promedio de la tienda
+#### Calificación promedio de la tienda
 #### Satisfacción del Cliente:
 *Tienda 1: 3.98 (MÁS BAJO)
 
