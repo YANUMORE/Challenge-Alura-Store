@@ -67,8 +67,8 @@ Con la información obtenida, la Tienda 4 es la que tiene el menor ingreso total
 
 ### Autor
 *Yanucelly Moreira
-*2025
-*Proyectp Analisis de datos con Python
+*Año 2025
+*Proyecto Analisis de datos con Python
 
 
 
