@@ -1,5 +1,12 @@
 # Challenge-Alura-Store
-## Conclusiones
+#Indice 
+* Descripción del proyecto
+* Desarrollo del proyecto
+* Resultados
+* Conclusiones
+* Autor
+
+
 
 ### Ingreso total de cada tienda
 *La tienda 1 su ingreso total es: $1,150,880,400.00
@@ -53,3 +60,8 @@
 *El ingreso promedio por proeducto venddio para cada tienda, el de la tienda 4 es el mas bajo
 
 Con la información obtenida, la Tienda 4 es la que tiene el menor ingreso total, el menor ingreso por producto y una calificación media (aunque no la menor). Por lo tanto, es la candidata a vender.
+
+
+
+
+
