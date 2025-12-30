@@ -7,6 +7,7 @@
 #####La tienda 3 su ingreso total es: $1,098,019,600.00
 #####La tienda 4 su ingreso total es: $1,038,375,700.00 (MÁS BAJO)
 
+
 ### Ventas por categoría
 #### Ventas por categoría (cantidad de productos vendidos por categoría, tabla resumida) y total por tienda:
 #####Tienda 1: 2359
