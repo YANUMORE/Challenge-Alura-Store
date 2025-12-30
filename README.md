@@ -13,10 +13,13 @@
 
 ### Ventas por categoría
 #### Ventas por categoría (cantidad de productos vendidos por categoría, tabla resumida) y total por tienda:
-#####Tienda 1: 2359
-#####Tienda 2: 2359
-#####Tienda 3: 2359
-#####Tienda 4: 2358
+*Tienda 1: 2359
+
+*Tienda 2: 2359
+
+*Tienda 3: 2359
+
+*Tienda 4: 2358
 
 ### Calificación promedio de la tienda
 #### Satisfacción del Cliente:
