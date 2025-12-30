@@ -41,6 +41,7 @@ El desafío, es para ayudar al Sr. Juan a decidir qué tienda de su cadena Alura
 
 *Tienda 4: 4.0
 
+### Resultados
 #### Calculemos el ingreso promedio por producto vendido para cada tienda:
 
 ####Ingreso por producto = Ingreso total / Total de productos vendidos
@@ -53,7 +54,7 @@ El desafío, es para ayudar al Sr. Juan a decidir qué tienda de su cadena Alura
 
 *Tienda 4: 1,038,375,700 / 2358 ≈ 440,213.60 (MÁS BAJO)
 
-### Analisis y resultados
+### Conclusiones
 *Los ingresos totales son bastante similares, pero la Tienda 4 tiene el ingreso más bajo.
 
 *Las calificaciones de los clientes son también similares, con la Tienda 3 teniendo la más alta (4.05) y la Tienda 1 la más baja (3.98).
@@ -63,6 +64,11 @@ El desafío, es para ayudar al Sr. Juan a decidir qué tienda de su cadena Alura
 *El ingreso promedio por proeducto venddio para cada tienda, el de la tienda 4 es el mas bajo
 
 Con la información obtenida, la Tienda 4 es la que tiene el menor ingreso total, el menor ingreso por producto y una calificación media (aunque no la menor). Por lo tanto, es la candidata a vender.
+
+### Autor
+*Yanucelly Moreira
+*2025
+*Proyectp Analisis de datos con Python
 
 
 
