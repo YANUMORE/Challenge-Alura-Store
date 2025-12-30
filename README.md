@@ -34,10 +34,12 @@
 ### Calculemos el ingreso promedio por producto vendido para cada tienda:
 
 ####Ingreso por producto = Ingreso total / Total de productos vendidos
-
 *Tienda 1: 1,150,880,400 / 2359 ≈ 487,656.80
+
 *Tienda 2: 1,116,343,500 / 2359 ≈ 473,227.00
+
 *Tienda 3: 1,098,019,600 / 2359 ≈ 465,460.20
+
 *Tienda 4: 1,038,375,700 / 2358 ≈ 440,213.60
 
 ### Analisis
