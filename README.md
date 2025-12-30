@@ -19,12 +19,15 @@
 
 *Tienda 3: 2359
 
-*Tienda 4: 2358
+*Tienda 4: 2358 (MÁS BAJO)
 
 ### Calificación promedio de la tienda
 #### Satisfacción del Cliente:
-#####Tienda 1: 3.98 (MÁS BAJO)
-#####Tienda 2: 4.04
-#####Tienda 3: 4.05 (MÁS ALTO)
-#####Tienda 4: 4.0
+*Tienda 1: 3.98 (MÁS BAJO)
+
+*Tienda 2: 4.04
+
+*Tienda 3: 4.05 (MÁS ALTO)
+
+*Tienda 4: 4.0
 
