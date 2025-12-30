@@ -49,3 +49,7 @@
 *Las calificaciones de los clientes son también similares, con la Tienda 3 teniendo la más alta (4.05) y la Tienda 1 la más baja (3.98).
 
 *Las ventas totales por cantidad de productos son casi iguales en todas las tiendas (2359, excepto Tienda 4 con 2358).
+
+*El ingreso promedio por proeducto venddio para cada tienda, el de la tienda 4 es el mas bajo
+
+Con la información obtenida, la Tienda 4 es la que tiene el menor ingreso total, el menor ingreso por producto y una calificación media (aunque no la menor). Por lo tanto, es la candidata a vender.
